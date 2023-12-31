@@ -1,2 +1,2 @@
 # Coding-Factory-Final-Project
-This is a full stack blog project for Coding Factory
+This is a full stack note app project for Coding Factory
